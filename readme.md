@@ -1,6 +1,6 @@
-# Project Title
+# Proyecto ejemplo
 
-One Paragraph of project description goes here
+Ejemplo
 
 ## Getting Started
 
